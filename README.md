@@ -46,4 +46,8 @@ All evidence and screenshots of log analysis are included in the [`screenshots/`
 ---
 
 ## 📁 Repo Structure
+Screenshots
+
+<img width="1897" height="994" alt="Screenshot 2025-07-15 at 10 47 13 PM" src="https://github.com/user-attachments/assets/7357bbc3-e781-47ab-8c88-3a7b8b5c72ba" />
+
 
