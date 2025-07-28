@@ -22,7 +22,20 @@ In this task, I explored how Windows logs are stored and analyzed, particularly 
 - ✅ Windows Event Viewer
 - ✅ TryHackMe VPN for secure connection to lab machine
 
+---
 
+## 📸 Screenshots
+
+All evidence and screenshots of log analysis are included in the [`screenshots/`](screenshots/) folder.
+
+---
+
+## 🧩 Skills Demonstrated
+- Windows log analysis (PowerShell Operational logs)
+- Event filtering using Event ID and Task Category
+- Blue team investigation workflows
+- Familiarity with event log structure and XML view
+- Identifying artifacts of PowerShell activity for forensic triage
 
 ---
 
