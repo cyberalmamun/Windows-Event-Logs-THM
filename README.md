@@ -52,8 +52,8 @@ All evidence and screenshots of log analysis are included in the [`screenshots/`
 <img width="1688" height="964" alt="Screenshot 2025-07-16 at 11 27 09 PM" src="https://github.com/user-attachments/assets/653244b9-11dd-4b64-a936-3d5ab13588a0" />
 <img width="1688" height="964" alt="Screenshot 2025-07-16 at 11 26 54 PM" src="https://github.com/user-attachments/assets/f13d78bb-27ab-4bab-8ca8-2b5ff69a928a" />
 <img width="1906" height="1034" alt="Screenshot 2025-07-16 at 11 29 27 PM" src="https://github.com/user-attachments/assets/86d9b1e0-cc4f-45ac-be20-5f7442018843" />
-
-
-
+<img width="1915" height="966" alt="Screenshot 2025-08-01 at 5 11 53 PM" src="https://github.com/user-attachments/assets/2a8056f7-1f65-45b5-88d4-7ce1fbdd43b5" />
+<img width="1915" height="966" alt="Screenshot 2025-08-01 at 5 21 49 PM" src="https://github.com/user-attachments/assets/a8563752-35a8-49cb-9f61-526b43888bf2" />
+<img width="1915" height="966" alt="Screenshot 2025-08-01 at 5 22 03 PM" src="https://github.com/user-attachments/assets/4cca20a5-8ef3-49d6-b653-fc613c7ea660" />
 
 
