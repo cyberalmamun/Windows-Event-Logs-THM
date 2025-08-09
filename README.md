@@ -1,5 +1,4 @@
-# 🪵 TryHackMe – Windows Event Logs
-
+# 🪵 TryHackMe – Windows Event This repository documents my hands-on experience from the [TryHackMe room: Windows Event Logs](https://tryhackme.com/room/windowseventlogs). The room focuses on using **Windows Event Viewer** for analyzing logs that are critical for incident response and blue team operations.
 
 
 ---
